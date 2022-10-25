@@ -1,6 +1,6 @@
 {
   "name": "url-requester",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Make https request to a url.",
   "main": "requester.js",
   "scripts": {
